@@ -6,9 +6,8 @@ def fitness_function():
 
 def neat_net(conf_path, function):
 	# Load config
-	config = neat.config.Config(neat.DefaultGenome, neat.DefaultReproduction,
-								neat.DefaultSpeciesSet, neat.DefaultStagnation, 
-								conf_path)
+	config = neat.config.Config(neat.DefaultGenome, neat.DefaultReproduction,neat.DefaultSpeciesSet,
+	 			    neat.DefaultStagnation, conf_path)
 	# Creating population
 	p = neat.Population(config)
 
