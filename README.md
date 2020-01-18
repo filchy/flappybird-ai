@@ -1,6 +1,5 @@
 # Flappybird using Artificial intelligence
 ## In game
-![](output/flappybird_img.png)
 ## Reporter in terminal
 ![](output/flappybird_cmd.png)
 ## Dependencies
