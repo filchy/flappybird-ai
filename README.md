@@ -9,6 +9,6 @@
 
 ## In game
 ![](output/flappybird_resultimg.png)
-## Reporter in terminal
+## Final report in terminal
 ![](output/flappybird_cmd.png)
 
