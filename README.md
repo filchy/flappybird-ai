@@ -1,4 +1,5 @@
 # Flappybird using Artificial intelligence
+Implementation of NEAT algorithm in Flappy Bird game.
 ## Dependencies
 * [neat-python](https://neat-python.readthedocs.io/en/latest/)
 * [pygame](https://www.pygame.org/news)
